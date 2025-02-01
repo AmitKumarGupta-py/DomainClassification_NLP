@@ -13,7 +13,7 @@ import csv
 import random
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 
-# Expanded domains with Governance
+# Domains 
 domains = {
     "Technology": ["AI", "Cloud Computing", "Cybersecurity", "IoT", "Blockchain"],
     "Finance": ["Investments", "Banking", "Insurance", "Cryptocurrency", "Fintech"],
@@ -57,8 +57,7 @@ def generate_dataset(file_name, rows=10000):
 
     print(f"Dataset with {rows} rows created: {file_name}")
 
-# Generate dataset (Uncomment to run)
-# generate_dataset("governance_dataset.csv", rows=10)
+# Generate dataset 
 
 generate_dataset("governance_dataset.csv", rows=10000)
 
