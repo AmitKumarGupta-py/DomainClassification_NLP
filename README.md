@@ -38,6 +38,7 @@ Hyperparameter tuning for improved performance
 5: Deployment:
 
 Deploy the model as an API using Flask/Django, Gradio, Streamlit
+Helps in GUI: https://github.com/gharishkumar
 Real-time classification for new text data
 
 Challenges & Solutions:
