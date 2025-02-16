@@ -1,0 +1,16 @@
+numpy
+pandas
+scikit-learn
+nltk
+spacy
+textblob
+tensorflow
+torch
+transformers
+fastapi
+flask
+django
+gradio
+streamlit
+matplotlib
+seaborn
