@@ -50,6 +50,11 @@ Develop a robust **machine learning** or **deep learning** model that accurately
   - FastAPI for high-performance serving
 
 
+
+
+![WhatsApp Image 2025-02-09 at 7 16 45 PM](https://github.com/user-attachments/assets/ed87be90-2bec-4a2f-8a16-87137284d551)
+
+
 - 🔗 **GUI Contributor:** [GitHub Repository](https://github.com/gharishkumar)
 
 ---
